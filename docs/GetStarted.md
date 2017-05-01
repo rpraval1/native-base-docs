@@ -30,7 +30,7 @@ react-native link
 You've successfully setup [NativeBase](https://nativebase.io/) with your [React Native](https://facebook.github.io/react-native/) app. Your React Native app is now all set to run on iOS and Android simulator.
 
 
-**Gif/video of a init new projet and adding a Button component to a new blank project(iOS and Android) goes here**
+**Gif/video of a init new project and adding a Button component to a new blank project(iOS and Android) goes here**
 
 ## Setup with CRNA
 *Create React Native project using the CRNA cli.* <br />
